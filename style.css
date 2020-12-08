@@ -1,0 +1,69 @@
+
+h1{
+	color:silver;
+	background-color:maroon;
+	margin-bottom:  0;
+}
+b{
+	color:red;
+	background-color:#ff9999;
+}
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.home-hero{
+	background-image: url(images/header.jpg);
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 10px 10px 10px 30px;
+	text-shadow: 4px 3px 0 #7a7a7a;
+}
+nav {
+		background-color: gray;
+		padding:5px ;
+	
+}
+nav ul {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding-left: 0;
+}
+nav li {
+	display: inline;
+	margin: 0;
+	padding-right: 20px;
+	
+}
+nav a {
+	display: inline;
+	text-decoration: none;
+}
+* {
+	box-sizing: border-box;
+}
+i.fa{
+	font-size: 5em;
+	color: red;
+}
+footer{
+	max-width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+	
+nav a:link {
+color: #000033;
+}
+nav a:visited {
+	color: #344873;
+}
+nav a:hover {
+color: #FFFFFF;
+}
+nav a:active {
+	color: #000000;
+}
